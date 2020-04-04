@@ -1,0 +1,19 @@
+{
+  "identifier": "io.github.chegeiser.sn-theme-muteddark",
+  "name": "Muted Dark - CPG",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "A dark theme with muted colors for Standard Notes",
+  "url": "https://cdn.jsdelivr.net/gh/chegeiser/sn-theme-muteddark/dist/dist.css",
+  "download_url": "https://github.com/chegeiser/sn-theme-muteddark/archive/1.0.0.zip",
+  "latest_url": "https://listed.standardnotes.org/k5Ir0h5TTG",
+  "marketing_url": "https://github.com/chegeiser/sn-theme-muteddark",
+  "thumbnail_url": "https://raw.githubusercontent.com/chegeiser/sn-theme-muteddark/master/thumbnail.png",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#1e1e1e",
+    "foreground_color": "#1e1e1e",
+    "border_color": "#127766"
+  }
+}
